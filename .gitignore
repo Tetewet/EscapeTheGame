@@ -1,0 +1,15 @@
+##########################
+# Unreal Generated files #
+##########################
+*/Intermediate
+*/Binaries
+*/Saved
+*/DerivedDataCache
+*/Build
+*_BuiltData.uasset
+EscapeTheGame/Content/StarterContent/
+
+#################################
+# Visual Studio Generated files #
+#################################
+*.VC.db
